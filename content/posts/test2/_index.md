@@ -5,6 +5,15 @@ draft: true
 ---
 
 test
-{{< img "*photo1*" "Those cupcakes are way overcooked!" >}}
 
-and text down here
+{{< lbimg name="*photo2*" title="Hugo Logo" centered="yes" >}}
+{{< lbimg name="*photo3*">}}
+{{< lbimg name="*photo4*" title="Hugo Logo" centered="yes" >}}
+{{< lbimg name="*photo5*" title="Hugo Logo" centered="yes" >}}
+{{< lbimg name="*photo6*">}}
+{{< lbimg name="*photo7*">}}
+{{< lbimg name="*photo8*">}}
+{{< lbimg name="*photo9*">}}
+{{< lbimg name="*photo10*">}}
+{{< lbimg name="*photo11*">}}
+{{< lbimg name="*photo12*">}}
