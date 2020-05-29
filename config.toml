@@ -1,0 +1,4 @@
+baseURL = "http://blog.teich.net/"
+languageCode = "en-us"
+title = "Hello"
+theme = "ananke"
